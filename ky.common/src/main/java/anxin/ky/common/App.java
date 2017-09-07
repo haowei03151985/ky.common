@@ -21,4 +21,10 @@ public class App
 	    //ertert
 //而特他
 	}
+    
+    
+    private void asdadsasda() {
+		// TODO Auto-generated method stub
+
+	}
 }
