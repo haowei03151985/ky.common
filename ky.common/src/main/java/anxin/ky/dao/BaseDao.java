@@ -6,5 +6,10 @@ public class BaseDao {
 		// TODO Auto-generated method stub
                //eqwwwwwwwwwwwwwwwwww
 	}
+	
+	private void create() {
+		System.err.println("create...");
+
+	}
 
 }
