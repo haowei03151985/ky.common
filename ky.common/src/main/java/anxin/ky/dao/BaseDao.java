@@ -4,7 +4,7 @@ public class BaseDao {
 	
 	private void tewet() {
 		// TODO Auto-generated method stub
-
+               //eqwwwwwwwwwwwwwwwwww
 	}
 
 }
