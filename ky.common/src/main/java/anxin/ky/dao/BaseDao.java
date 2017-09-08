@@ -9,7 +9,7 @@ public class BaseDao {
 	
 	private void create() {
 		System.err.println("create...");
-//言言言
+//言言言+tttttttttttttttt
 	}
 
 }
