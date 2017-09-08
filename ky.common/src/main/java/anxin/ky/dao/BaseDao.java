@@ -11,5 +11,10 @@ public class BaseDao {
 		System.err.println("create...");
 //言言言+tttttttttttttttt
 	}
+	
+	private void add() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
