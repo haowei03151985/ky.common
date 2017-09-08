@@ -9,7 +9,12 @@ public class BaseDao {
 	
 	private void create() {
 		System.err.println("create...");
-//言言言+tttttttttttttttt
+//vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv0908
+	}
+	
+	private void delete() {
+		// TODO Auto-generated method stub
+
 	}
 	
 	private void add() {
